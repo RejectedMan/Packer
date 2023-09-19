@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+*variables.json
+variables.json
+=======
 # Cache objects
 packer_cache/
 
@@ -14,3 +18,4 @@ crash.log
 
 # For built boxes
 *.box
+>>>>>>> a34b47ba63ef19c1ee02a8fb3d34c1592b88a780

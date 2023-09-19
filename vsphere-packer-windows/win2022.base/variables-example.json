@@ -1,0 +1,12 @@
+{
+  "vsphere-server": "192.168.x.x",
+  "vsphere-user": "administrator@192.168.x.x",
+  "vsphere-password": "myvspherepassword",
+  "vsphere-datacenter": "datacenter",
+  "vsphere-cluster": "clustername",
+  "vsphere-datastore": "Volume03",
+  "vsphere-network": "NetworkName",
+  "vsphere-folder": "Templates",
+  "winadmin-password": "P@ssw0rd",
+  "os_iso_path": "[Volume02] ISO/SW_DVD9_Win_Server_STD_CORE_2022_2108.13_64Bit_English_DC_STD_MLF_X23-25303.ISO"
+}
